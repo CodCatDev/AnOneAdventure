@@ -1,3 +1,7 @@
-App {
-    content-align: center middle
+Screen {
+    align: center middle;
+}
+#title {
+    width: auto;
+    text-align: center;
 }

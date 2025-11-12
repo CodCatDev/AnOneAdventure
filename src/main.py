@@ -1,4 +1,4 @@
-from ui.menu import Menu
+from ui import Menu
 
 app = Menu()
 app.run()
